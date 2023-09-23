@@ -9,4 +9,17 @@ body {
 body > h2 {
     text-align: left;
     padding-left: 100px;
+    padding-top: 50px;
+}
+
+body > img {
+    padding-top: 50px;
+}
+
+body > p {
+    padding-top: 50px;
+}
+
+body > section {
+    padding-top: 50px;
 }
