@@ -8,4 +8,5 @@ body {
 
 body > h2 {
     text-align: left;
+    padding-left: 100px;
 }
