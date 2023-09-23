@@ -1,0 +1,7 @@
+body {
+    background: beige;
+}
+
+body > h1 {
+    text-align: center;
+}
