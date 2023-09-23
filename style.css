@@ -2,6 +2,6 @@ body {
     background: beige;
 }
 
-body > h1 {
+body {
     text-align: center;
 }
