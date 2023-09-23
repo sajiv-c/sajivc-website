@@ -5,3 +5,7 @@ body {
 body {
     text-align: center;
 }
+
+body > h2 {
+    text-align: left;
+}
